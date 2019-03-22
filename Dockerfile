@@ -35,7 +35,7 @@ RUN curl --location https://deb.nodesource.com/setup_9.x | bash -
 
 RUN apt-get install -y nodejs
 
-RUN npm install -g serverless@1.27.3
+RUN npm install -g serverless@1.39.1
 
 # ---
 # ---
